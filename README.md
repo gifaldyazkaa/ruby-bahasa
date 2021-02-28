@@ -1,4 +1,4 @@
-# Tutorial Belajar Ruby Dasar (Bahasa Indonesia)
+# <image src=https://cdn.emojidex.com/emoji/px32/Ruby.png?1465787635>Tutorial Belajar Ruby Dasar (Bahasa Indonesia)
 - Tutorial Ruby Dasar Bahasa Indonesia Version.
 
 # PS
