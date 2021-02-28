@@ -7,4 +7,4 @@
 
 # Tutorial
 - How to Open Folder to Visual Studio Code :
-<video src=https://falcxx.cdn.spotlightr.com/watch/MTA4NDAwNw==></video>
+<video src=https://falcxx.cdn.spotlightr.com/watch/MTA4NDAwNw></video>
