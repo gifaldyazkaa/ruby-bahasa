@@ -7,7 +7,7 @@ puts "Hello World"
 halo = "Hello World"
 puts halo
 
-# Cara Ketiga - Pakai PRINT
+# Cara Ketiga - Pakai PRINT.
 print halo
 
 # Atau
